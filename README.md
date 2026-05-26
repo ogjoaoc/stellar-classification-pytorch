@@ -2,8 +2,6 @@
 
 Este repositório contém a implementação prática de uma Rede Neural Artificial desenvolvida em **PyTorch** para a classificação de objetos astronômicos (Galáxias, Quasares e Estrelas). 
 
-O projeto foi desenvolvido como parte das atividades obrigatórias do **Período 2 (Redes Neurais)** do programa de **Trainee CIS 2026** do IEEE Student Branch - Universidade de Brasília (UnB)
-
 ## Dataset
 Os experimentos utilizam o **Stellar Classification Dataset - SDSS17**, que conta com medições espectrais capturadas pelo *Sloan Digital Sky Survey*. O objetivo principal é predizer a classe do objeto com base em suas características fotométricas (bandas de filtros `u`, `g`, `r`, `i`, `z`) e no seu `redshift`.
 
